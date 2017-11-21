@@ -1,6 +1,5 @@
 .ipynb_*
 assignments/*
 others/*
-*.html
 .DS_Store
 .ipynb_checkpoints
