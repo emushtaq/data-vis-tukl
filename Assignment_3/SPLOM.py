@@ -75,7 +75,7 @@ def stackedBar( self, source, x, y, **kwargs ):
 Figure.stackedBar = stackedBar        
         
         
-def splom( df: pd.DataFrame, splom_width=0, nbins_histogram=0, **kwargs ): 
+def splom( df, splom_width=0, nbins_histogram=0, **kwargs ): 
     '''
     Create a scatterplot matrix of the given data.
     '''
